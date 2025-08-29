@@ -37,6 +37,9 @@ p {
   line-height: 1.5;
   text-align: center;
 }
+a:hover {
+  cursor: pointer;
+}
 
 .navigation-links {
   display: flex;
@@ -106,4 +109,8 @@ p {
   .email-link {
     font-size: 16px;
   }
+}
+
+.contact {
+  padding-top: 30px;
 }
